@@ -7,4 +7,4 @@ It is not recommended to fork this repository to use as a template due to its un
 This program is mostly a demonstration piece to show my current knowledge for any future employers.
 
 ---
-*`Working on: Gouda`*
+[@jaxolydian](https://github.com/jaxolydian)
